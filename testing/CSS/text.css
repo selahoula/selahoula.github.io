@@ -1,0 +1,34 @@
+a:link {
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+    padding: 20px; 
+}
+
+a:visited {
+    color: rgba(143, 33, 0, 0.79);
+    background-color: transparent;
+    text-decoration: none;
+    padding: 20px;
+}
+
+
+a:hover {
+    color: black;
+    background-color: #ddd;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+}
+
+a:active {
+    color: #FFBB33; 
+    background-color: #2196F3;
+    text-decoration:none;
+    padding: 20px;
+}
+.index2
+{
+    font-family:Book Antiqua; 
+    color: red;
+    font-size: 30px;
